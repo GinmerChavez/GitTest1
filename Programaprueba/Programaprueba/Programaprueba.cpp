@@ -19,6 +19,12 @@ int main()
     //Pero que ha pasao?
     for (int i = 0; i < 5; i++)
     {       cout << i << endl;
+    cout << "Branch" << endl;
+    }
+    for (int i = 0; i < 5; i++)
+    {
+        cout << i << endl;
+        cout << "Branch" << endl;
     }
     system("pause");
 }
