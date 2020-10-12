@@ -14,7 +14,7 @@ int main()
      std::cout << "Pero que ha pasao!?";
     std::cout << "Crack";
     std::cout << "Pero que ha pasao!?";
-    //code to call feature 1
+    //code to call feature 1//code to callfeature 2
     system("pause");
 }
 
