@@ -13,6 +13,7 @@ int main()
      std::cout << "Sí se pudo";
      std::cout << "Pero que ha pasao!?";
     std::cout << "Crack";
+    std::cout << "Pero que ha pasao!?";
     system("pause");
 }
 
