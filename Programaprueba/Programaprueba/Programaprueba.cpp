@@ -9,6 +9,7 @@ int main()
     std::cout << "Probando";
      std::cout << "Probando";
     std::cout << "Sí se pudo";
+     std::cout << "Sí se pudo";
     system("pause");
 }
 
