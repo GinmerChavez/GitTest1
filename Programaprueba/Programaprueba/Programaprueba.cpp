@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
@@ -17,6 +17,9 @@ int main()
     //code to call feature 1
     //Bronca
     //Pero que ha pasao?
+    for (int i = 0; i < 5; i++)
+    {       cout << i << endl;
+    }
     system("pause");
 }
 
